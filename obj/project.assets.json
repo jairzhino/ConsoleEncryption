@@ -781,28 +781,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/gersonreply/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\gjaya\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gersonreply/Documents/Gerson .Net/ConsoleEncryption/ConsoleEncryption.csproj",
+      "projectUniqueName": "C:\\Proyectos\\ConsoleEncryption\\ConsoleEncryption.csproj",
       "projectName": "ConsoleEncryption",
-      "projectPath": "/Users/gersonreply/Documents/Gerson .Net/ConsoleEncryption/ConsoleEncryption.csproj",
-      "packagesPath": "/Users/gersonreply/.nuget/packages/",
-      "outputPath": "/Users/gersonreply/Documents/Gerson .Net/ConsoleEncryption/obj/",
+      "projectPath": "C:\\Proyectos\\ConsoleEncryption\\ConsoleEncryption.csproj",
+      "packagesPath": "C:\\Users\\gjaya\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\ConsoleEncryption\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/gersonreply/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gjaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
