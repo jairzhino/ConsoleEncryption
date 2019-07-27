@@ -4,10 +4,10 @@
 /dist
 /tmp
 /out-tsc
-#/obj
+/obj
 /bin
 bin/
-#obj/
+obj/
 # dependencies
 /node_modules
 
